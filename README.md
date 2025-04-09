@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MubySon
+- 👋 Hi, I’m Muabarak Muhammad Shamsuddeen
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on cooperate work
